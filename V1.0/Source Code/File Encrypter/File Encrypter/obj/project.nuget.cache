@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oMtQ8Q7mWXhuxzOMchk2nxIJPNWdNHwgWD6YP61ZD+G/3mg1qktLPumQmNlLawTl3/slDmeVjsF83mHdEdBkJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ok\\source\\repos\\File encrypter\\File Encrypter\\File Encrypter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ok\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

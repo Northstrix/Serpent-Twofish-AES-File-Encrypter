@@ -1,0 +1,19 @@
+C:\Users\ok\source\repos\File Encrypter\File Encrypter\bin\Debug\net6.0-windows\File Encrypter.exe
+C:\Users\ok\source\repos\File Encrypter\File Encrypter\bin\Debug\net6.0-windows\File Encrypter.deps.json
+C:\Users\ok\source\repos\File Encrypter\File Encrypter\bin\Debug\net6.0-windows\File Encrypter.runtimeconfig.json
+C:\Users\ok\source\repos\File Encrypter\File Encrypter\bin\Debug\net6.0-windows\File Encrypter.dll
+C:\Users\ok\source\repos\File Encrypter\File Encrypter\bin\Debug\net6.0-windows\File Encrypter.pdb
+C:\Users\ok\source\repos\File Encrypter\File Encrypter\obj\Debug\net6.0-windows\File Encrypter.csproj.AssemblyReference.cache
+C:\Users\ok\source\repos\File Encrypter\File Encrypter\obj\Debug\net6.0-windows\File_Encrypter.Form1.resources
+C:\Users\ok\source\repos\File Encrypter\File Encrypter\obj\Debug\net6.0-windows\File Encrypter.csproj.GenerateResource.cache
+C:\Users\ok\source\repos\File Encrypter\File Encrypter\obj\Debug\net6.0-windows\File Encrypter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ok\source\repos\File Encrypter\File Encrypter\obj\Debug\net6.0-windows\File Encrypter.AssemblyInfoInputs.cache
+C:\Users\ok\source\repos\File Encrypter\File Encrypter\obj\Debug\net6.0-windows\File Encrypter.AssemblyInfo.cs
+C:\Users\ok\source\repos\File Encrypter\File Encrypter\obj\Debug\net6.0-windows\File Encrypter.csproj.CoreCompileInputs.cache
+C:\Users\ok\source\repos\File Encrypter\File Encrypter\obj\Debug\net6.0-windows\File Encrypter.dll
+C:\Users\ok\source\repos\File Encrypter\File Encrypter\obj\Debug\net6.0-windows\refint\File Encrypter.dll
+C:\Users\ok\source\repos\File Encrypter\File Encrypter\obj\Debug\net6.0-windows\File Encrypter.pdb
+C:\Users\ok\source\repos\File Encrypter\File Encrypter\obj\Debug\net6.0-windows\File Encrypter.genruntimeconfig.cache
+C:\Users\ok\source\repos\File Encrypter\File Encrypter\obj\Debug\net6.0-windows\ref\File Encrypter.dll
+C:\Users\ok\source\repos\File Encrypter\File Encrypter\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\ok\source\repos\File Encrypter\File Encrypter\obj\Debug\net6.0-windows\File Encrypter.csproj.CopyComplete
