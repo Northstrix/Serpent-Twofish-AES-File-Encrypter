@@ -7,4 +7,4 @@ This project also has a SourceForge page: https://sourceforge.net/projects/sta-f
 
 ![image text](https://github.com/Northstrix/Serpent-Twofish-AES-File-Encrypter/blob/main/V1.0/Pictures/Encryption%20Scheme.png)
 
-Made with the help of the CHat GPT and Perplexity
+Made with the help of the Chat GPT and Perplexity
